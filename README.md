@@ -11,7 +11,7 @@
 
 ## 📌 Overview
 
-This project implements a fully connected neural network that recognizes handwritten digits (0 to 9) from the [MNIST]([https://www.kaggle.com/datasets/oddrationale/mnist-in-csv/code]) dataset. Every part of the learning process (forward propagation, loss, backpropagation, and gradient descent) is written by hand from the underlying equations, with no deep learning framework doing the work.
+This project implements a fully connected neural network that recognizes handwritten digits (0 to 9) from the [MNIST](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv/code) dataset. Every part of the learning process (forward propagation, loss, backpropagation, and gradient descent) is written by hand from the underlying equations, with no deep learning framework doing the work.
 
 **Goal:** understand *why* neural networks work, not just *how to call them*.
 
