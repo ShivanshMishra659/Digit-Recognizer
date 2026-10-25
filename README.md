@@ -157,7 +157,8 @@ Then run all cells from top to bottom (**Kernel → Restart & Run All**).
 
 
 ```
-![Sample predictions](Screenshot 2026-10-25 214945.png)
+![Sample predictions](result_1.png)
+![Sample predictions](result_2.png)
 ```
 
 ---
