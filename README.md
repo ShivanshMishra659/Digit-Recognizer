@@ -1,4 +1,4 @@
-# 🔢 Digit-Recognizor
+# 🔢 Digit-Recognizer
 
 > A handwritten digit classifier built **from scratch using pure mathematics**: no TensorFlow, no PyTorch, just linear algebra, calculus, and NumPy.
 
@@ -116,7 +116,7 @@ Digit-Recognizor/
 ### Prerequisites
 
 - Python 3.8+
-- Jupyter Notebook or JupyterLab
+- Jupyter Notebook or Google Colab
 - NumPy, Pandas, Matplotlib
 
 ### Installation
