@@ -153,7 +153,7 @@ Then run all cells from top to bottom (**Kernel → Restart & Run All**).
 | Metric            | Value        |
 |-------------------|--------------|
 | Training accuracy | 87.65 %  |
-| Test accuracy     | not yet evaluated %  |
+| Test accuracy     | 87.21 %  |
 
 You can add sample predictions here:
 
