@@ -89,13 +89,13 @@ Input (784)  →  Hidden Layer(s) (ReLU)  →  Output (10, Softmax)
 | Component         | Choice                  |
 |-------------------|-------------------------|
 | Input size        | 784                     |
-| Hidden layers     | _fill in your sizes_    |
+| Hidden layers     | 10                      |
 | Hidden activation | ReLU                    |
 | Output activation | Softmax                 |
 | Loss              | Cross-entropy           |
 | Optimizer         | Gradient descent        |
-| Learning rate (α) | _fill in_               |
-| Epochs / iterations | _fill in_             |
+| Learning rate (α) | 0.5                     |
+| Epochs / iterations | 980                   |
 
 ---
 
@@ -152,8 +152,8 @@ Then run all cells from top to bottom (**Kernel → Restart & Run All**).
 
 | Metric            | Value        |
 |-------------------|--------------|
-| Training accuracy | _fill in_ %  |
-| Test accuracy     | _fill in_ %  |
+| Training accuracy | 87.65 %  |
+| Test accuracy     | not yet evaluated %  |
 
 You can add sample predictions here:
 
