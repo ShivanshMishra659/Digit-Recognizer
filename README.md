@@ -156,10 +156,11 @@ Then run all cells from top to bottom (**Kernel → Restart & Run All**).
 | Test accuracy     | 87.21 %  |
 
 
-```
-![Sample predictions](images/result_1.png)
-![Sample predictions](images/result_2.png)
-```
+
+## Results
+![Result 1](images/result_1.png)
+![Result 2](images/result_2.png)
+
 
 ---
 
