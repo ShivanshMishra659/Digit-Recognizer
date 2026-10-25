@@ -155,10 +155,9 @@ Then run all cells from top to bottom (**Kernel → Restart & Run All**).
 | Training accuracy | 87.65 %  |
 | Test accuracy     | 87.21 %  |
 
-You can add sample predictions here:
 
 ```
-![Sample predictions](images/predictions.png)
+![Sample predictions](Screenshot 2026-10-25 214945.png)
 ```
 
 ---
